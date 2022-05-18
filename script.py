@@ -1,8 +1,8 @@
 import pandas as pd
 import smtplib
 
-SenderAddress = "partnergraphicwarex@gmail.com"
-password = "GRAPHICWAREX.comPartnerOP@2609"
+SenderAddress = "your email"
+password = "your password"
 
 e = pd.read_excel("Email.xlsx")
 emails = e['Emails'].values
