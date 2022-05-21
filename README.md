@@ -10,7 +10,6 @@
 <br>
 
 # Quick Example:
-<br>
 <ul>Emails
 <li>example@gmail.com</li>
 <li>example2@gmail.com</li>
