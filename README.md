@@ -9,7 +9,7 @@
 -> Create an excel file with all the emails whom you want to mail to.
 <br>
 
-• Quick Example
+# Quick Example:
 <br>
 <ul>Emails
 <li>example@gmail.com</li>
